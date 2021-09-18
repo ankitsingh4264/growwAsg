@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Groww Asg</string>
+    <string name="default_web_client_id_s">355955806639-7sqce46214m3fn5o20s6ac6lqhrn5jl1.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
